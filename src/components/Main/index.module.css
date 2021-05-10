@@ -1,0 +1,16 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    width: 100px;
+}
+
+.label {
+    font-size: 32pt;
+    font-weight: 600;
+    margin: 10px;
+}
